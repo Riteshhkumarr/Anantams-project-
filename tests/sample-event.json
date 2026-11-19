@@ -1,0 +1,11 @@
+{
+  "_comment": "Canonical fake Google Form submit event for Anantam Career Academy Lead Automation.",
+  "_usage": "Copy namedValues into testSubmission() in src/Code.gs, or use directly in any test harness.",
+  "namedValues": {
+    "Name"     : ["Priya Sharma"],
+    "Email"    : ["priya.sharma.test@example.com"],
+    "Phone"    : ["9876543210"],
+    "Interest" : ["Full Stack Web Development"],
+    "Message"  : ["I am a final-year CS student and want to get into a product company. How does your course help with placements?"]
+  }
+}
